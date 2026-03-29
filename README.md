@@ -52,24 +52,7 @@ Currently exploring Backend & Systems programming.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=EnsixD&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnsixD&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="165"/>
-
-</div>
-
-<div align="center">
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=EnsixD&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-### 🏆 Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=EnsixD&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
 
 </div>
 
