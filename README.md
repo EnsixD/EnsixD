@@ -59,7 +59,7 @@ Currently exploring Backend & Systems programming.
 
 <div align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=EnsixD&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=EnsixD&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
 </div>
 
@@ -69,7 +69,7 @@ Currently exploring Backend & Systems programming.
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=EnsixD&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
+<img src="https://github-profile-trophy.vercel.app/?username=EnsixD&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
 
 </div>
 
@@ -77,4 +77,4 @@ Currently exploring Backend & Systems programming.
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-</div
+</div>
