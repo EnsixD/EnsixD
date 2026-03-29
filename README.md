@@ -13,7 +13,7 @@
 
 ### 🧑‍💻 About Me
 
-```yaml
+
 name: EnsixD
 role: Full-Stack / Desktop Developer
 location: Earth 🌍
