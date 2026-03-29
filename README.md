@@ -4,6 +4,7 @@
 
 </div>
 
+---
 
 ### 👾 About Me
 
@@ -11,7 +12,7 @@ Building things for the web and desktop.
 Open to collaboration on interesting ideas.
 Currently exploring Backend & Systems programming.
 
-
+---
 
 - 🔭 Working on **web dev & desktop apps (C#/WPF)**
 - 🌱 Learning **Backend, .NET, and system-level development**
