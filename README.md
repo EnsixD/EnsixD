@@ -12,13 +12,13 @@ Building things for the web and desktop.
 Open to collaboration on interesting ideas.
 Currently exploring Backend & Systems programming.
 
----
 
 - 🔭 Working on **web dev & desktop apps (C#/WPF)**
 - 🌱 Learning **Backend, .NET, and system-level development**
 - 👯 Open to collaborate on **any novel idea**
 - ⚡ Fun fact: I make clock widgets instead of just using the taskbar
 
+---
 
 ### 🛠 Tech Stack
 
@@ -46,6 +46,8 @@ Currently exploring Backend & Systems programming.
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -54,6 +56,8 @@ Currently exploring Backend & Systems programming.
 
 </div>
 
+
+---
 
   ### 🐍 Snake
 
@@ -64,6 +68,9 @@ Currently exploring Backend & Systems programming.
   <img src="https://raw.githubusercontent.com/EnsixD/EnsixD/output/github-snake-dark.svg"/>
 </picture>
 </div>
+
+
+---
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
