@@ -1,84 +1,80 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=200&section=header&text=EnsixD&fontSize=50&fontColor=70a5fd&animation=fadeIn&fontAlignY=30&desc=Full-Stack%20%E2%80%A2%20Desktop%20%E2%80%A2%20Systems&descAlignY=52&descSize=18&descColor=bf91f3" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+things+for+Web+%26+Desktop+%F0%9F%9A%80;Exploring+Backend+%26+Systems+Programming+%F0%9F%94%A7;Open+to+Collaborate+on+Novel+Ideas+%F0%9F%92%A1)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=EnsixD&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20%2F%20Desktop%20Developer&descAlignY=55&descSize=16" width="100%"/>
 
 </div>
 
 ---
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="50%" valign="top">
+### 👾 About Me
 
-### 🧑‍💻 About Me
+Building things for the web and desktop.
+Open to collaboration on interesting ideas.
+Currently exploring Backend & Systems programming.
 
 
-name: EnsixD
-role: Full-Stack / Desktop Developer
-location: Earth 🌍
 
-currently:
-  working_on: Web Dev & Desktop Apps
-  learning: Backend, .NET, Systems
-  open_to: Collaboration
+- 🔭 Working on **web dev & desktop apps (C#/WPF)**
+- 🌱 Learning **Backend, .NET, and system-level development**
+- 👯 Open to collaborate on **any novel idea**
+- ⚡ Fun fact: I make clock widgets instead of just using the taskbar
 
-fun_fact: >
-  I build clock widgets instead
-  of just using the taskbar ⏰
-</td> <td width="50%" valign="top">
-🎯 What I Do
-🌐 Web — Modern frontends with React & Next.js
-🖥️ Desktop — Native Windows apps with WPF
-⚙️ Backend — APIs and services with .NET
-🧩 UI/UX — Clean, minimal, functional design
-🔧 Tools — Utilities that solve real problems
-</td> </tr> </table>
-🛠️ Tech Arsenal
+---
+
+### 🛠 Tech Stack
+
+**Frontend**
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
+**Desktop / Backend**
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
 <div align="center">
-◈ Languages
-[Image]
-[Image]
-[Image]
-[Image]
-[Image]
 
-◈ Frameworks & Libraries
-[Image]
-[Image]
-[Image]
-[Image]
-[Image]
-[Image]
-
-◈ Tools & Environment
-[Image]
-[Image]
-[Image]
-[Image]
-[Image]
+<img src="https://github-readme-stats.vercel.app/api?username=EnsixD&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnsixD&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="165"/>
 
 </div>
-📊 Stats & Activity
-<div align="center"> <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EnsixD&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=70a5fd&title_color=70a5fd&text_color=c9d1d9&bg_color=0d1117&ring_color=70a5fd"/> <img width="49%" src="https://streak-stats.demolab.com?user=EnsixD&hide_border=true&background=0d1117&stroke=161b22&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd&sideLabels=70a5fd&dates=c9d1d9&currStreakNum=bf91f3&sideNums=c9d1d9"/> </div> <div align="center"> <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EnsixD&theme=github_dark&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9"/> </div>
-📈 Contribution Graph
+
 <div align="center">
-[Image]
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=EnsixD&theme=tokyonight&hide_border=true)
 
 </div>
-🏆 Achievements
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=EnsixD&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/> </div>
+
+---
+
+### 🏆 Trophies
+
 <div align="center">
-💬 Let's Connect
-[Image]
 
-<br/> <img src="https://komarev.com/ghpvc/?username=EnsixD&color=70a5fd&style=flat-square&label=Profile+Views"/>
-<br/><br/>
+![](https://github-profile-trophy.vercel.app/?username=EnsixD&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
 
+</div>
 
-╔══════════════════════════════════════════╗
-║   "Code is like humor. When you have    ║
-║    to explain it, it's bad."            ║
-║                        — Cory House     ║
-╚══════════════════════════════════════════╝
-</div> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=120&section=footer" width="100%"/> ```
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
