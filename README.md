@@ -4,7 +4,6 @@
 
 </div>
 
----
 
 ### 👾 About Me
 
@@ -19,7 +18,6 @@ Currently exploring Backend & Systems programming.
 - 👯 Open to collaborate on **any novel idea**
 - ⚡ Fun fact: I make clock widgets instead of just using the taskbar
 
----
 
 ### 🛠 Tech Stack
 
@@ -46,7 +44,6 @@ Currently exploring Backend & Systems programming.
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
----
 
 ### 📊 GitHub Stats
 
@@ -56,7 +53,6 @@ Currently exploring Backend & Systems programming.
 
 </div>
 
----
 
   ### 🐍 Snake
 
