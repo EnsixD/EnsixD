@@ -60,4 +60,14 @@ Currently exploring Backend & Systems programming.
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+  ### 🐍 Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EnsixD/EnsixD/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EnsixD/EnsixD/output/github-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/EnsixD/EnsixD/output/github-snake-dark.svg"/>
+</picture>
+</div>
 </div>
